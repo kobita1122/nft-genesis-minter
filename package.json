@@ -1,0 +1,17 @@
+{
+  "name": "nft-genesis-minter",
+  "version": "1.0.0",
+  "description": "ERC-721 NFT Collection Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test test.js",
+    "deploy": "npx hardhat run deploy.js"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.7.1",
+    "hardhat": "^2.17.1",
+    "hardhat-gas-reporter": "^1.0.9"
+  }
+}
