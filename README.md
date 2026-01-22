@@ -14,3 +14,4 @@ A streamlined, flat-structure repository for deploying and managing an NFT colle
 1. **Install:**
    ```bash
    npm install
+YOLO badge test 😆
